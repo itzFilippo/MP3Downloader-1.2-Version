@@ -7,7 +7,7 @@ cd users
 cd %username%
 cd Documents
 md Music
-@echo Hello and welcome to the mp3 downloader par excellence that allows you to download songs from the internet!
+@echo Hello and welcome to the mp3 downloader par excellence that allows you to download songs from the internet! Made by: ItzFilippo & ImAndrew
 @echo Now the song list will appear, to get the song you will have to click the number of the corresponding song.
 @echo off
 pause
